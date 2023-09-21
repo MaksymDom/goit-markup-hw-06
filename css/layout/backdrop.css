@@ -156,6 +156,7 @@
 }
 
 .review-form-own-checkbox {
+    flex-shrink: 0;
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -237,4 +238,13 @@
         padding: 72px 16px 24px 16px;
     }
 
+}
+
+.user-privacy {
+    display: flex;
+    align-items: center;
+}
+
+.privacy-policy {
+    flex-shrink: 0;
 }
