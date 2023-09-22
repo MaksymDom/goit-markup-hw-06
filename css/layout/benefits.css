@@ -32,8 +32,6 @@
     line-height: 1.1;
     color: #2E2F42;
     letter-spacing: 0.02em;
-    text-align: center;
-    margin-bottom: 8px;
 }
 
 @media screen and (max-width: 767px) {
